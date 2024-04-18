@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwatosin-Rita
 - 👀 I’m interested in learning new things about the software testing community
-- 🌱 I’m currently learning Software Testing and Quality Assurance
+- 🌱 I took an intensive 3months training program on Software Testing and Quality Assurance
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tosinritaa@gmail.com
 - 😄 Pronouns: Her and She
